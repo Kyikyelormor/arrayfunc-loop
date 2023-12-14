@@ -92,14 +92,27 @@ const fruit = ["Banana", "Orange", "Apple", "Lemon", "Mango"];
 
 <!-- CONTROL FLOW -->
 
+<!-- if/else statement -->
 
+Are used to execute a block of code if a certain condition is true and a different block of code if the condition is false.
 
+<!-- switch statement -->
 
+Are used to execute a block of code based on the value of a variable or expression.
 
+<!-- LOOPS -->
 
+Are used to execute a block of code multiple times based on a cretain condition. There are two main types of loops in javascript;
+-For loop
+-Do/while loop
 
+<!-- FOR LOOP -->
+ 
+Runs the code as long as the condition stated is met.
 
+<!-- Do/WHILE LOOP -->
 
+Runs the code once before it check whether the condition is true or false.
 
 
 
